@@ -1,5 +1,3 @@
-Claro, Tarcísio! Vou organizar a parte do lore de Etheris e a Fratura do Tempo de forma clara e bonitinha, com uma estrutura que você pode copiar e colar diretamente no GitHub (em Markdown, que é o formato mais comum por lá). Vou usar alguns emoticons para deixar mais visual e amigável, mas sem exagerar, pra manter o profissionalismo. 😊 Aqui vai!
-
 📜 Lore de Etheris e a Fratura do Tempo 🌌
 🌍 O Mundo e a Premissa
 Há milênios, Etheris era um mundo harmonioso, onde o tempo fluía como um rio calmo sob a proteção do Coração de Chronos 💎, um artefato criado pelos Tecelões do Tempo, uma ordem mística que mantinha o equilíbrio das eras. Tudo mudou quando um traidor, Voryn, o Desfiador 🖤, tentou usar o Coração para reescrever a história e dominar todas as eras. O ritual falhou, e o Coração se partiu, desencadeando a Fratura do Tempo ⏳.
