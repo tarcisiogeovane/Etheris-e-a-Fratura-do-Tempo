@@ -1,4 +1,4 @@
-# 📜 Lore de Etheris e a Fratura do Tempo 🌌
+# 📜 Etheris e a Fratura do Tempo 🌌
 
 ## 🌍 O Mundo e a Premissa
 Há milênios, Etheris era um mundo harmonioso, onde o tempo fluía como um rio calmo sob a proteção do Coração de Chronos 💎. Este artefato, criado pelos Tecelões do Tempo, uma ordem mística, mantinha o equilíbrio das eras. Tudo mudou quando um traidor, Voryn, o Desfiador 🖤, tentou usar o Coração para reescrever a história e dominar todas as eras.
